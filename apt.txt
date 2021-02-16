@@ -1,3 +1,4 @@
 # octave
 # gnuplot-nox
 # ghostscript
+gfortran
