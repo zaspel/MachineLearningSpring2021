@@ -2,3 +2,5 @@
 # gnuplot-nox
 # ghostscript
 gfortran
+libblas-dev
+liblapack-dev
