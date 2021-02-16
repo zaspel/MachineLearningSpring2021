@@ -1,6 +1,7 @@
 numpy
 matplotlib
 sklearn
+qml
 #keras
 #pandas
 #tensorflow
