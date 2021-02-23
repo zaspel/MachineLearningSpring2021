@@ -11,3 +11,6 @@ Launch linear regression (in 1D) Jupyter notebook:
 
 Launch linear regression (in 2D) Jupyter notebook: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=linear_regression_2d.ipynb)
+
+Launch molecular data set treatment Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=data_set_molecules.ipynb)
