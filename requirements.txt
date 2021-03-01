@@ -2,6 +2,7 @@ numpy
 matplotlib
 sklearn
 pandas
-xlrd
+openpyxl
+#xlrd
 #keras
 #tensorflow
