@@ -14,3 +14,7 @@ Launch linear regression (in 2D) Jupyter notebook:
 
 Launch molecular data set treatment Jupyter notebook: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=data_set_molecules.ipynb)
+
+Launch (stochastic) gradient descent for linear regression Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=gradient_descent_linear_regression.ipynb)
+
