@@ -1,6 +1,7 @@
 numpy
 matplotlib
 sklearn
-#keras
 pandas
+xlrd
+#keras
 #tensorflow
