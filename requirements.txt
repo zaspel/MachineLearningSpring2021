@@ -4,5 +4,5 @@ sklearn
 pandas
 openpyxl
 #xlrd
-tf-nightly
+tensorflow==2.4.1
 #tensorflow
