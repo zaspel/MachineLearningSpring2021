@@ -24,3 +24,15 @@ Launch training error evaluation on 1D data Jupyter notebook:
 Launch training error evaluation on energy efficiency data Jupyter notebook: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=training_error_energy_efficiency.ipynb)
 
+Launch comparison between linear and non-linear classifier Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=linear_vs_nonlinear_classification.ipynb)
+
+Launch class likelihood visualization Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=class_likelihood.ipynb)
+
+Launch confusion matrix Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=confusion_matrix.ipynb)
+
+Launch logistic regression to linear discriminant analysis comparison Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=logistic_regression_vs_lda.ipynb)
+
