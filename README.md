@@ -36,3 +36,12 @@ Launch confusion matrix Jupyter notebook:
 Launch logistic regression to linear discriminant analysis comparison Jupyter notebook: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=logistic_regression_vs_lda.ipynb)
 
+Launch K-means clustering Jupyter notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=kMeans_clustering.ipynb)
+
+Launch simple 2D principle components visualization Jupyter notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=PCA_principle_components_2d.ipynb)
+
+Launch hand written digit synthesis by PCA Jupyter notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=PCA_synthesis.ipynb)
+
