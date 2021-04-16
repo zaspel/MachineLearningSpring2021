@@ -45,3 +45,18 @@ Launch simple 2D principle components visualization Jupyter notebook:
 Launch hand written digit synthesis by PCA Jupyter notebook:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=PCA_synthesis.ipynb)
 
+Launch quadratic polynomial model Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=quadratic_polynomial_model_1d.ipynb)
+
+Launch higher degree polynomial model Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=polynomial_model_2d.ipynb)
+
+Launch Gaussian kernel visualization Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=gaussian_kernel.ipynb)
+
+Launch kernel-based model Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=kernel_regression.ipynb)
+
+Launch kernel ridge regression model Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=kernel_ridge_regression.ipynb)
+
