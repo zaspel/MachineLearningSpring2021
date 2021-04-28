@@ -60,3 +60,6 @@ Launch kernel-based model Jupyer notebook:
 Launch kernel ridge regression model Jupyer notebook:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=kernel_ridge_regression.ipynb)
 
+Launch MLP regression model Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=nn_regression.ipynb)
+
