@@ -63,3 +63,12 @@ Launch kernel ridge regression model Jupyer notebook:
 Launch MLP regression model Jupyer notebook:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=nn_regression.ipynb)
 
+Launch MLP regression model with special weight initialization Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=nn_regression_initialization.ipynb)
+
+Launch MLP regression model withy batch normalization Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=nn_regression_batch_normalization.ipynb)
+
+Launch image classification with MLP and CNN models Jupyer notebook:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/MachineLearningSpring2021.git/main?filepath=nn_from_mlp_to_cnn.ipynb)
+
