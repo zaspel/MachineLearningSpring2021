@@ -1,6 +1,6 @@
 numpy
 matplotlib
-sklearn
+scikit-learn
 pandas
 openpyxl
 #xlrd
