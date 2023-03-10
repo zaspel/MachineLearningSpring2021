@@ -4,5 +4,5 @@ scikit-learn
 pandas
 openpyxl
 #xlrd
-tensorflow==2.4.1
-#tensorflow
+#tensorflow==2.4.1
+tensorflow
