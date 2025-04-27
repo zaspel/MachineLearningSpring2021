@@ -6,3 +6,4 @@ openpyxl
 #xlrd
 #tensorflow==2.4.1
 tensorflow
+qmllib
